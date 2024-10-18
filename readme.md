@@ -27,7 +27,7 @@ The 360-degree rotation of the circle containing the icons is powered. The rotat
 
 # Hosting
 After completing the project, it is hosted on GitHub Pages for public access. You can visit the live demo here:
---**Live Demo:** 
+-- **Live Demo:** 
 
 # Task Requirements Recap:
 1. All code inside a div with ID assignment.
