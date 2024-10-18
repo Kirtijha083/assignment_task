@@ -3,19 +3,19 @@ This project showcases a services page with several interactive features, using 
 
 # Project Features
 
---**Container Element:**
+-- **Container Element:**
 All the code is wrapped inside a div with the ID "assignment" to keep the layout organized and encapsulated.
 
---**Tailwind CSS:**
+-- **Tailwind CSS:**
 Tailwind CSS has been used to style the page, ensuring a modern, clean look with utility-first classes.
 
---**Icons:**
+-- **Icons:**
 Font Awesome icons are used, as per the project requirements. Icons help enhance the visual appeal and usability of the site.
 
---**Hover Effect:**
+-- **Hover Effect:**
 When hovering over the boxes below the icons, each box rotates 360 degrees. A simple animation has been used to implement this smooth rotation effect.
 
---**Animation:**
+-- **Animation:**
 The 360-degree rotation of the circle containing the icons is powered. The rotation occurs smoothly upon hover and is managed by the animation.
 
 # Setup Instructions
